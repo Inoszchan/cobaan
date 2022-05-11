@@ -1,0 +1,15 @@
+#EXTINF:-1  tvg-id="N/A" group-title="日本" tvg-logo="🔞",NHK华语世界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="日本" tvg-logo="🔞",Nippon TV News 24
+https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="日本" tvg-logo="N/A",V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="日本" tvg-logo="N/A",New Japan Pro Wrestling
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
+
+#EXTINF:-1  tvg-id="N/A" group-title="日本" tvg-logo="🔞",us261
+http://videocdnbaidu.rhsj520.com/rbny/20180806/jx/PPPD-504/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="日本" tvg-logo="🔞",us251
+http://videocdn.dlyilian.com:8091/20190520/HND-648_CH_SD/index.m3u8
+#EXTINF:-1  tvg-id="N/A" group-title="日本" tvg-logo="🔞",us081
+http://video1.feimanzb.com:8091/20180115/CEAD-054-C/550kb/hls/index.m3u8
